@@ -1,0 +1,12 @@
+../../csprogs.dat
+
+a_shared.qc
+client/g_csqc.qc
+client/g_defs.qc
+client/g_functions.qc
+client/g_client.qc
+client/g_entity.qc
+client/g_main.qc
+client/g_menu.qc
+client/g_input.qc
+client/g_render.qc

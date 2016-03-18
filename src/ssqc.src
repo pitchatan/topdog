@@ -1,0 +1,7 @@
+../../progs.dat
+a_fte.qc
+a_shared.qc
+server/g_defs.qc
+server/g_client.qc
+server/g_main.qc
+server/g_functions.qc
